@@ -1,0 +1,2 @@
+- Insert (site,empno,1) for all emps that have homesite (site,empno,0) but not (site,empno,1)
+- List of emps that are share in more than 2 sites  
